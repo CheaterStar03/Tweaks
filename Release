@@ -1,8 +1,0 @@
-Origin: CheaterStar03
-Label: CheaterStar
-Suite: stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: Adds haptic feedback to volume buttons
